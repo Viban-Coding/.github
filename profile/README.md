@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋!
 
 
 This is an GitHub organization/team of two friends, Vipra & Bandi. Hence, the name "Viban".
